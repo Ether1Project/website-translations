@@ -20,13 +20,13 @@
   "hero": {
     "heading1": "Ether-1:",
     "heading2": "#DecentralizeEverything",
-    "small-desc": "Imagine a world where content was completely held in the public domain, hosted by the public and was 100% immutable.  The idea of a completely decentralized, democratized and community hosted internet is not only a utopian dream but is now achievable by us.",
-    "button": "TALK TO US"
+    "small-desc": "Se for deg en verden der innholdet ble holdt helt i det offentlige, hostet av publikum og var 100% uforanderlig. Ideen om et fullstendig desentralisert, demokratisert og samfunnsbasert internett er ikke bare en utopisk drøm, men er nå oppnåelig av oss.",
+    "button": "SNAKK MED OSS"
   },
 
   "about": {
-    "heading1": "Decentralized blockchain, decentralized file & website hosting, ",
-    "heading2": "decentralized governance.",
+    "heading1": "Desentralisert blockchain, desentralisert fil og nettsted hosting, ",
+    "heading2": "desentralisert styre.",
     "features": "ethoFS Funksjoner",
     "feat-content": {
       "desc": "ethoFS kombinerer Ether-1 Service/Master/Gateway Node Network med IPFS for å levere desentralisert innhold i en skala som ikke er sett før. Brukere er i stand til å laste opp innhold eller et nettsted via ett enkel brukergrensesnitt som er desentralisert lagret med ethoFS.",
@@ -107,8 +107,8 @@
     "vps3": "Vultr",
     "vps4": "Hetzner",
     "vps5": "Contabo",
-    "link1": "Explorer (NEW)",
-    "link2": "Explorer (OLD)",
+    "link1": "Explorer (NY)",
+    "link2": "Explorer (GAMMEL)",
     "link3": "ethoFS",
     "link4": "Dokumentasjon",
     "link5": "Node Dashboard",
