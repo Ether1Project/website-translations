@@ -14,7 +14,9 @@
     "bpsaa": "BPSAA",
     "nodes": "NODES",
     "node-dash": "NODE DASHBOARD",
-    "exchanges": "EXCHANGES"
+    "exchanges": "EXCHANGES",
+    "desk": "DESKTOP WALLET",
+    "web": "WEB WALLET"
   },
 
   "hero": {
